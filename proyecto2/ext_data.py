@@ -13,4 +13,4 @@ def read_csv(path):
     return data
   
 if __name__ == '__main__':
-  data = read_csv('./proyecto/data.csv')
+  data = read_csv('./proyecto2/data.csv')
